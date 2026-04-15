@@ -1,0 +1,17 @@
+producto,fecha,precio,region,mercado,volumen,clima,demanda,tendencia,precio_predicho
+papa,2026-04-01,0.80,Lima,Mayorista,1200,soleado,media,estable,0.78
+papa,2026-04-02,0.75,Lima,Mayorista,1400,lluvia,alta,bajando,0.72
+papa,2026-04-03,0.70,Lima,Mayorista,1600,lluvia,alta,bajando,0.68
+papa,2026-04-04,0.68,Lima,Mayorista,1800,nublado,alta,bajando,0.65
+maiz,2026-04-01,1.20,Cusco,Local,900,soleado,media,estable,1.22
+maiz,2026-04-02,1.25,Cusco,Local,850,soleado,alta,subiendo,1.28
+maiz,2026-04-03,1.30,Cusco,Local,800,soleado,alta,subiendo,1.35
+maiz,2026-04-04,1.35,Cusco,Local,750,soleado,alta,subiendo,1.40
+arroz,2026-04-01,1.10,Lambayeque,Regional,1500,soleado,media,estable,1.08
+arroz,2026-04-02,1.08,Lambayeque,Regional,1600,nublado,baja,bajando,1.05
+arroz,2026-04-03,1.05,Lambayeque,Regional,1700,lluvia,baja,bajando,1.02
+arroz,2026-04-04,1.00,Lambayeque,Regional,1800,lluvia,baja,bajando,0.98
+cebolla,2026-04-01,0.90,Arequipa,Mayorista,1000,soleado,media,estable,0.92
+cebolla,2026-04-02,0.95,Arequipa,Mayorista,950,soleado,alta,subiendo,0.98
+cebolla,2026-04-03,1.00,Arequipa,Mayorista,900,soleado,alta,subiendo,1.05
+cebolla,2026-04-04,1.05,Arequipa,Mayorista,850,soleado,alta,subiendo,1.10
